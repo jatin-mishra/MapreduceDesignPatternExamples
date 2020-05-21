@@ -1,0 +1,1 @@
+given a list of posts and comments, create a structured XML hierarchy to nest comments wit their related post.

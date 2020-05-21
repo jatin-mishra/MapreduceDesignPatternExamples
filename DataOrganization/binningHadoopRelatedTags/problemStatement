@@ -1,0 +1,1 @@
+The data received from ems is tagged with the subelement type and we want to bin the data based in the subelement type. For this example we will use three types of subelement type PTP,SYS and ETH and we will bin the data into the respective files.
