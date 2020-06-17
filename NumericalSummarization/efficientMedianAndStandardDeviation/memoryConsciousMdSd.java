@@ -153,7 +153,7 @@ public class memoryConsciousMdSd{
 					if(totalComments%2 == 0  && previousComments == medianIndex){
 						result.setMedian((double)(entry.getKey() + prevKey) / (double)2.0);
 					}else{
-						result.setMedian(entry.setKey());
+						result.setMedian(entry.getKey());
 					}
 				}
 
